@@ -1,0 +1,50 @@
+[
+{
+    "model": "goods.categories",
+    "pk": 2,
+    "fields": {
+        "name": "Столи",
+        "slug": "stoli"
+    }
+},
+{
+    "model": "goods.categories",
+    "pk": 3,
+    "fields": {
+        "name": "Меблі для спальні",
+        "slug": "mebli-dlya-spalni"
+    }
+},
+{
+    "model": "goods.categories",
+    "pk": 4,
+    "fields": {
+        "name": "Меблі для саду та дачі",
+        "slug": "mebli-dlya-sadu-ta-dachi"
+    }
+},
+{
+    "model": "goods.categories",
+    "pk": 5,
+    "fields": {
+        "name": "Дивани",
+        "slug": "divani"
+    }
+},
+{
+    "model": "goods.categories",
+    "pk": 6,
+    "fields": {
+        "name": "Корпусні меблі",
+        "slug": "korpusni-mebli"
+    }
+},
+{
+    "model": "goods.categories",
+    "pk": 7,
+    "fields": {
+        "name": "Все",
+        "slug": "all"
+    }
+}
+]
