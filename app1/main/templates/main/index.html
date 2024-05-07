@@ -7,6 +7,12 @@
     <!-- Favicons for different platforms -->
 {% endblock css %}
 
+{% block modal_cart %}
+{% include "includes/cart_button.html" %}
+{% endblock modal_cart %}
+
+
+
 {% block content %}
     <!-- Контент на странице -->
     <h1 class="mt-5 pt-5"><strong>{{content}}</strong></h1>
